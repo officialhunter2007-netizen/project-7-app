@@ -8,7 +8,7 @@ on:
 env:
   AWS_REGION: eu-west-1
   ECR_REGISTRY: 485141927791.dkr.ecr.eu-west-1.amazonaws.com
-  ECR_REPOSITORY: project-7-eks
+  ECR_REPOSITORY: project-7-eks-ecr
 
 permissions:
   id-token: write
